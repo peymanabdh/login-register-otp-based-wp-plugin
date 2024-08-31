@@ -16,3 +16,6 @@
 3. یک page جدید ساخته و شرت کد  [login-register] را درون ان قرار دهید  
 
 ![login register](https://github.com/peymanabdh/login-register-otp-based-wp-plugin/blob/master/img/Screenshot%202024-08-31%20162513.png)
+![login register](https://github.com/peymanabdh/login-register-otp-based-wp-plugin/blob/master/img/Screenshot%202024-08-31%20162640.png)
+
+
