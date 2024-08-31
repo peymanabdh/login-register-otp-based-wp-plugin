@@ -15,5 +15,4 @@
 2. از بخش تنظیمات و تنظیمات پبامکی- یوزرنیم پسورد و کد پترن رجیستر شده از ملی پیامک را وارد و دخیره کنید
 3. یک page جدید ساخته و شرت کد  [login-register] را درون ان قرار دهید  
 
-(img/Screenshot 2024-08-31 162513.png)
-(img/Screenshot 2024-08-31 162640.png)
+![login register](https://github.com/peymanabdh/login-register-otp-based-wp-plugin/blob/master/img/Screenshot%202024-08-31%20162513.png)
