@@ -1,0 +1,171 @@
+.modal-backdrop{
+    z-index: 998!important;
+}
+.bg-cover{
+    background-size: cover !important;
+    background-position: center !important;
+    background:#1f2431 url("../../img/log.png") no-repeat;
+}
+.log_rads {
+    background: #ffffff;
+    border-radius: 6px;
+    position: relative;
+    overflow:hidden;
+}
+.lui_9okt6 {
+    padding: 2rem;
+}
+._loh_revu97 {
+    margin-top:350px;
+}
+._loh_r96 {
+    position: relative;
+    padding-left: 1.5rem;
+    padding-right: 1rem;
+    display: block;
+}
+._bloi_quote {
+    position: absolute;
+    right: 0;
+    font-size: 50px;
+    top: 0;
+    color: #ffffff;
+    opacity: 0.3;
+}
+._loh_r92 h4 {
+    font-size: 20px;
+    margin: 0;
+    color: #ffffff;
+}
+._loh_r93 {
+    color: rgba(255,255,255,0.8);
+}
+._loh_foot_r93 h4 {
+    margin:0;
+    font-size: 15px;
+    line-height: 1;
+    color: #ffeb3b;
+}
+._loh_foot_r93 span {
+    color: white;
+    font-size: 13px;
+    line-height: 1;
+}
+.log_wraps label {
+    width: 100%;
+    font-size: 13px;
+    color: #2d324e;
+    /* font-weight: 600;*/
+    font-family: vazir-bold
+}
+.log__heads {
+    text-align: right;
+    position: relative;
+    margin-bottom:1rem;
+    display: inline-block;
+}
+.log__heads .logs_title {
+    font-size:24px;
+    font-family: vazir;
+    font-weight: 300;
+}
+.theme-cl{
+    color:#3bb1ce;
+}
+.social_logs ul li {
+    display: inline-block;
+    padding: 5px;
+    width:50%;
+    flex:0 0 50%;
+}
+.social_logs ul li a {
+    width: 100%;
+    height: 56px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid  #eaeef5;
+    transition:all ease 0.4s;
+    background: #ffffff;
+    font-size: 16px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #323a48 !important;
+}
+.social_logs ul li a:focus, .social_logs ul li a:hover {
+    border-color: #175ad1;
+    background: #1d5cc9;
+}
+
+/*Loading Icon*/
+.lds-facebook {
+    display: inline-block;
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+.lds-facebook div {
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    width: 8px;
+    background: #fff;
+    animation: lds-facebook 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+}
+.lds-facebook div:nth-child(1) {
+    left: 8px;
+    animation-delay: -0.24s;
+}
+.lds-facebook div:nth-child(2) {
+    left: 19px;
+    animation-delay: -0.12s;
+}
+.lds-facebook div:nth-child(3) {
+    left: 30px;
+    animation-delay: 0;
+}
+@keyframes lds-facebook {
+    0% {
+        top: 4px;
+        height: 32px;
+    }
+    50%, 100% {
+        top: 16px;
+        height: 16px;
+    }
+}
+/*Registration style*/
+#verification_code{
+    display: none;
+}
+/*#register_form{
+    display: none;
+}*/
+
+a.btn.btn_apply {
+    background: #3bb1ce !important;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: #ffffff;
+}
+
+.log_wraps {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 50% !important;
+    text-align: center;
+    margin: auto !important;
+}
+lds-login-phone-exist {
+    display: inline-block;
+    position: relative;
+    height: 40px;
+    width: 100%;
+    font-size: 30px;
+}
